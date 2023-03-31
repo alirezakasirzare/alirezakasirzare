@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">📚 I'm currently learning  JS & react<br><br>📫 How to reach me: alirezakasir@yahoo.com<br><br>👨‍💻 All of my projects are available at https://kasirzare.ir<br><br></h4>
+<h4 align="left">📫 How to reach me: alirezakasir@yahoo.com<br><br>👨‍💻 All of my projects are available at https://kasirzare.ir<br><br></h4>
 
 ###
 
