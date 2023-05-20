@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">My name is Alireza and i'm a Front-end developer from Iran</h3>
+<h3 align="left">My name is Alireza and i'm a Front-end developer from Iran-Khuzestan</h3>
 
 ###
 
-<h4 align="left">📫 How to reach me: alirezakasir@yahoo.com<br><br>👨‍💻 All of my projects are available at https://kasirzare.ir<br><br></h4>
+<h4 align="left">📫 How to reach me: alirezakasir@yahoo.com | +989393586633<br><br>👨‍💻 All of my projects are available at https://kasirzare.ir<br><br></h4>
 
 ###
 
@@ -27,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" width="80" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="80" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="80" alt="javascript logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" width="80" alt="material logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="80" alt="git logo"  />
 </div>
 
